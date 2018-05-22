@@ -38,6 +38,8 @@ Make *emphasis aka italics* or _emphasis aka italics_.
 
 And **strong emphasis aka bold** or __strong emphasis aka bold__.
 
+There some ~~strike over~~ characters here.
+
 ##### HEADER 5
 
 Insert table here.
