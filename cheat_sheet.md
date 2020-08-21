@@ -1,47 +1,48 @@
-# HEADER 1
+# HEADER 1 - basic paragraphs
 
-Paragraph 1.
+To create paragraphs use blank line to separate paragraphs.
+Realy cool feature to separate sentences on lines of text or to fit text to defined width.
 
-Paragraph 2.
+To create line breaks simply put 2 or more spaces  
+with return, eventually.
 
-    Code block paragraph (indented by 4 spaces or 1 tab).
+So in line above line break is formed.
 
-## HEADER 2
+## HEADER 2 - use of quotation
 
-> This is the first level of quoting.
+> This is the first level of quoting, maked by \> character at the begining of each line.
 >
-> > This is nested blockquote.
->
-> Back to the first level.
+> > This is nested blockquote (2`nd level), and, by the way, it`s second paragraph.
 
-### HEADER 3
+### HEADER 3 - lists
 
 * Element of list 1
-* Element of list 2
-
-+ Element of list 1
-+ Element of list 2
-
+    + Element of list 1 (nested item, to create this use 4 spaces or 1 tab)
 - Element of list 1
-- Element of list 2
 
-1. Ordered,
+1. Ordered;
 2. List.
-
-[^note]
-
-[^note]: Here is the note.
 
 #### HEADER 4
 
-Make *emphasis aka italics* or _emphasis aka italics_.
+Make
+_italics, aka emphasis_
+just that easy by using\_.
 
-And **strong emphasis aka bold** or __strong emphasis aka bold__.
+And
+__strong emphasis, aka bold__
+can be made just by adding another \_ from both sides.
 
-There some ~~strike over~~ characters here.
+To make both
+___italics and bold___
+simply put another \_ from both sides.
 
-##### HEADER 5
+There some
+~~strike over~~
+characters here, maked by double \~ around required text.
 
-Insert table here.
+##### HEADER 5 - code blocks
+
+    Put 4 spaces or 1 tab and get code block.
 
 ###### HEADER 6
