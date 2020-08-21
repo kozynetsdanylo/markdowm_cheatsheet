@@ -71,14 +71,16 @@ characters here, maked by double "\~" around required text.
 
 By the way, single "\`" symbol used for `single` or `few words` code block.
 
-Also code blocks can be fenced with 3 or more "\`" like in example below:
+Also code blocks can be fenced with 3 or more "\`" on line before and line after code block to define code block, like in example below:
 
+```
 ```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
+```
 ```
 
 Best part - no need for indentation at start of the code.
