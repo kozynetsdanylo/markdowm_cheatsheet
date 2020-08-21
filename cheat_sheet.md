@@ -71,6 +71,18 @@ characters here, maked by double "\~" around required text.
 
 By the way, single "\`" symbol used for `single` or `few words` code block.
 
+Also code blocks can be fenced with 3 or more "\`" like in example below:
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+Best part - no need for indentation at start of the code.
+
 ###### HEADER 6
 
 Clickable link here <https://www.markdownguide.org>  
@@ -87,3 +99,19 @@ If you do not want to break the text with stupid braces comments and stuff like 
 
 [^2]: This is quite a bigger footnote.  
 In this you can refer to ***[this website](https://www.markdownguide.org/ "which is quite good")*** for some clarifications
+
+***
+
+To add a table, use 3 or more hyphens "\-\-\-" to create each column’s header, and use pipes "\|" to separate each column. You can optionally add pipes on either end of the table. See example below to check code and output:
+
+```
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+```
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
