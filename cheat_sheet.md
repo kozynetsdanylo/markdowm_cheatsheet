@@ -15,7 +15,8 @@ So in line above line break is formed.
 > > This is nested blockquote (2\`nd level), and, by the way, it\`s second paragraph.
 
 ### HEADER 3 - lists
-For plain list \-, \+, \* symbols must preceed text
+
+For plain list \-, \+, \* symbols must preceed text.
 
 Plain list:
 * Element of list 1
