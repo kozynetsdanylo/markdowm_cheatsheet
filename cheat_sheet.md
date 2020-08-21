@@ -77,3 +77,13 @@ Clickable link here <https://www.markdownguide.org>
 <fake@example.com>  
 Link witout comment: [Duck Duck Go](https://duckduckgo.com).  
 Link with PopUp comment: [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+
+***
+
+Here's a simple footnote[^1], and the bigger one [^2].
+If you do not want to break the text with stupid braces comments and stuff like this. Generaly you can indent text onto footnote body by 4 spaces or 1 tab in order to create bigger footnote like [^2] footnote.
+
+[^1]: This is the first footnote.
+
+[^2]: This is quite a bigger footnote.  
+In this you can refer to ***[this website](https://www.markdownguide.org/ "which is quite good")*** for some clarifications
