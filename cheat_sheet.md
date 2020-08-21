@@ -12,7 +12,7 @@ So in line above line break is formed.
 
 > This is the first level of quoting, maked by \> character at the begining of each line.
 >
-> > This is nested blockquote (2`nd level), and, by the way, it`s second paragraph.
+> > This is nested blockquote (2\`nd level), and, by the way, it\`s second paragraph.
 
 ### HEADER 3 - lists
 
