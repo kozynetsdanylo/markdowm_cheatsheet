@@ -16,10 +16,13 @@ So in line above line break is formed.
 
 ### HEADER 3 - lists
 
+Plain list:
+
 * Element of list 1
     + Element of list 1 (nested item, to create this use 4 spaces or 1 tab)
 - Element of list 1
 
+Ordered list:
 1. Ordered;
 2. List.
 
@@ -27,15 +30,15 @@ So in line above line break is formed.
 
 Make
 _italics, aka emphasis_
-just that easy by using\_.
+just that easy by using \_ or \*.
 
 And
 __strong emphasis, aka bold__
-can be made just by adding another \_ from both sides.
+can be made just by adding another \_ or \* from both sides.
 
 To make both
 ___italics and bold___
-simply put another \_ from both sides.
+simply put another \_ or \* from both sides.
 
 There some
 ~~strike over~~
