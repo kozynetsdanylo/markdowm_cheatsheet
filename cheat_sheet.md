@@ -15,12 +15,12 @@ So in line above line break is formed.
 > > This is nested blockquote (2\`nd level), and, by the way, it\`s second paragraph.
 
 ### HEADER 3 - lists
+For plain list \-, \+, \* symbols must preceed text
 
 Plain list:
-
 * Element of list 1
-    + Element of list 1 (nested item, to create this use 4 spaces or 1 tab)
-- Element of list 1
+    + Element of list 1a (nested item, to create this use 4 spaces or 1 tab)
+- Element of list 2
 
 Ordered list:
 1. Ordered;
